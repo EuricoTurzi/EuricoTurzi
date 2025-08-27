@@ -1,144 +1,217 @@
-## Eurico Turzi
+<div align="center">
 
-**`Desenvolvedor FullStack`**
+# 👋 Olá! Eu sou o **Eurico Turzi**
 
-Me chamo Eurico, tenho 27 anos e moro em São Paulo. Sou formado em Design Gráfico desde 2020. Atualmente curso Análise e Desenvolvimento de Sistemas.
-Desde novo eu sou fascinado por tecnologia, vivia pesquisando na internet como criar servidores dos meus jogos favoritos, acredito que foi dai que veio minha paixão pelo desenvolvimento.
-Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa onde trabalho, e desde então, sigo aperfeiçoando meus conhecimentos e aprendendo dia após dia.
 
-<p aligh="start">
- <a href="https://www.github.com/euricoturzi?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/Euricoturzi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 **Sobre Mim**
+
+</div>
+
+```typescript
+const Eurico = {
+  nome: "Eurico Turzi",
+  idade: 27,
+  localização: "São Paulo, Brasil 🇧🇷",
+  formação: {
+    concluído: "Design Gráfico (2020)",
+    cursando: "Análise e Desenvolvimento de Sistemas"
+  },
+  paixão: ["Tecnologia", "Desenvolvimento", "Inovação"],
+  história: "Desde criança fascinado por tecnologia, começei criando servidores de jogos e hoje desenvolvo sistemas completos!"
+};
+```
+
+<div align="center">
+
+### 🔥 **Estatísticas GitHub**
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Euricoturzi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="200"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euricoturzi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true&bg_color=0D1117" alt="Top Languages" height="200"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Euricoturzi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ **Stack Tecnológico**
+
+#### **Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend Skills"/>
+</p>
+
+#### **Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres" alt="Backend Skills"/>
+</p>
+
+#### **Ferramentas & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 **Conquistas & Métricas**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.github.com/euricoturzi?tab=repositories&sort=stargazers">
+<img src="https://custom-icon-badges.demolab.com/github/stars/Euricoturzi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS" alt="Stars"/>
 </a>
+</td>
+<td align="center">
 <a href="https://github.com/Euricoturzi?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Euricoturzi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<img src="https://custom-icon-badges.demolab.com/github/followers/Euricoturzi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" alt="Followers"/>
+</a>
+</td>
+<td align="center">
+<img src="https://custom-icon-badges.demolab.com/badge/REPOS-27-blue?style=for-the-badge&logo=repo&logoColor=white" alt="Repos"/>
+</td>
+</tr>
+</table>
 
-### 🤖 Linguagens e Tecnologias
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<br/>
-<br/>
+---
 
-### Estatisticas
+<div align="center">
+
+### 🎯 **Projetos em Destaque**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔐 **Gerenciador de Senhas**
+Sistema completo de gerenciamento de usuários com Django + React
+- ✅ APIs REST protegidas
+- ✅ Autenticação hierárquica
+- ✅ Interface moderna
+- ✅ Segurança avançada
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Experiência Profissional**
+
+```mermaid
+timeline
+    title Minha Jornada Tech
+    2020 : Formatura em Design Gráfico
+    2023 : Primeiro sistema interno desenvolvido
+    2024 : Início em Análise e Desenvolvimento de Sistemas
+    2025 : Projetos FullStack com Django + React
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 **Skills & Especialidades**
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### **Frontend Development**
+- ✅ React & Next.js
+- ✅ TypeScript
+- ✅ Tailwind CSS
+- ✅ Responsive Design
+- ✅ UI/UX Design
+
+</td>
+<td valign="top" width="33%">
+
+#### **Backend Development**
+- ✅ Django & Django REST
+- ✅ Python
+- ✅ PostgreSQL
+- ✅ APIs RESTful
+- ✅ Autenticação & Segurança
+
+</td>
+<td valign="top" width="33%">
+
+#### *Tools**
+- ✅ Git & GitHub
+- ✅ Vite & Build Tools
+- ✅ Environment Setup
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 **Objetivos 2025**
+
+- 🚀 **Contribuir** para projetos open source
+- 📚 **Aprender** novas tecnologias (Docker, Kubernetes)
+- 💼 **Expandir** portfólio profissional
+- 🌟 **Networking** na comunidade tech
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 **Vamos Conectar?**
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Euricoturzi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euricoturzi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<a href="mailto:riicodt@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/eurico-turzi-577125150">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Euricoturzi">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </p>
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+**⭐ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!**
+
+</div>
