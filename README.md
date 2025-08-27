@@ -125,14 +125,11 @@ Sistema completo de gerenciamento de usuários com Django + React
 
 ### 🌟 **Experiência Profissional**
 
-```mermaid
-timeline
-    title Minha Jornada Tech
+
     2020 : Formatura em Design Gráfico
     2023 : Primeiro sistema interno desenvolvido
     2024 : Início em Análise e Desenvolvimento de Sistemas
     2025 : Projetos FullStack com Django + React
-```
 
 </div>
 
@@ -209,8 +206,6 @@ timeline
 </p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 **⭐ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!**
 
