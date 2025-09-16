@@ -2,8 +2,6 @@
 
 # 👋 Olá! Eu sou o **Eurico Turzi**
 
-
-
 </div>
 
 ---
@@ -15,17 +13,33 @@
 </div>
 
 ```typescript
-const Eurico = {
-  nome: "Eurico Turzi",
-  idade: 27,
-  localização: "São Paulo, Brasil 🇧🇷",
-  formação: {
-    concluído: "Design Gráfico (2020)",
-    cursando: "Análise e Desenvolvimento de Sistemas"
+interface Developer {
+  name: string;
+  age: number;
+  location: string;
+  education: {
+    completed: string;
+    current: string;
+  };
+  passions: string[];
+  bio: string;
+  currentFocus: string[];
+}
+
+const developer: Developer = {
+  name: "Eurico Turzi",
+  age: 27,
+  location: "São Paulo, Brasil 🇧🇷",
+  education: {
+    completed: "Design Gráfico (2020)",
+    current: "Análise e Desenvolvimento de Sistemas",
   },
-  paixão: ["Tecnologia", "Desenvolvimento", "Inovação"],
-  história: "Desde criança fascinado por tecnologia, começei criando servidores de jogos e hoje desenvolvo sistemas completos!"
+  passions: ["Tecnologia", "Desenvolvimento", "Inovação"],
+  bio: "Desenvolvedor Full Stack especializado em criar soluções robustas e escaláveis",
+  currentFocus: ["Node.js", "Express.js", "MongoDB", "Docker", "TypeScript"],
 };
+
+// 🚀 Atualmente desenvolvendo sistemas modernos com arquitetura de microserviços
 ```
 
 <div align="center">
@@ -54,18 +68,21 @@ const Eurico = {
 ### 🛠️ **Stack Tecnológico**
 
 #### **Frontend**
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Frontend Skills"/>
 </p>
 
 #### **Backend**
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgres,mongodb" alt="Backend Skills"/>
 </p>
 
 #### **Ferramentas & DevOps**
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools"/>
 </p>
 
 </div>
@@ -106,12 +123,28 @@ const Eurico = {
 <tr>
 <td width="50%">
 
-#### 🔐 **Gerenciador de Senhas**
-Sistema completo de gerenciamento de usuários com Django + React
-- ✅ APIs REST protegidas
-- ✅ Autenticação hierárquica
-- ✅ Interface moderna
-- ✅ Segurança avançada
+#### 🔐 **Sistema de Gerenciamento Completo**
+
+Aplicação full-stack robusta com Django + React + Express
+
+- ✅ APIs REST com Express.js
+- ✅ Banco de dados MongoDB
+- ✅ Autenticação segura JWT
+- ✅ Interface moderna React
+- ✅ Deploy com Docker
+
+</td>
+<td width="50%">
+
+#### 🚀 **Microserviços Escaláveis**
+
+Arquitetura moderna containerizada
+
+- ✅ Node.js + Express
+- ✅ MongoDB com Mongoose
+- ✅ Docker Compose
+- ✅ Nginx Load Balancer
+- ✅ CI/CD Pipeline
 
 </td>
 </tr>
@@ -123,13 +156,15 @@ Sistema completo de gerenciamento de usuários com Django + React
 
 <div align="center">
 
-### 🌟 **Experiência Profissional**
+### 🌟 **Jornada Profissional**
 
-
-    2020 : Formatura em Design Gráfico
-    2023 : Primeiro sistema interno desenvolvido
-    2024 : Início em Análise e Desenvolvimento de Sistemas
-    2025 : Projetos FullStack com Django + React
+```
+2020 📚 Formatura em Design Gráfico
+2023 💻 Primeiro sistema interno desenvolvido
+2025 🎓 Análise e Desenvolvimento de Sistemas
+2025 🚀 Especialização em Full Stack (Django + React + Express)
+2025 🐳 Implementação de DevOps com Docker e MongoDB
+```
 
 </div>
 
@@ -144,29 +179,34 @@ Sistema completo de gerenciamento de usuários com Django + React
 <td valign="top" width="33%">
 
 #### **Frontend Development**
-- ✅ React & Next.js
-- ✅ TypeScript
-- ✅ Tailwind CSS
+
+- ✅ React & TypeScript
+- ✅ Tailwind CSS & Styled Components
 - ✅ Responsive Design
+- ✅ Vite & Build Tools
 - ✅ UI/UX Design
 
 </td>
 <td valign="top" width="33%">
 
 #### **Backend Development**
-- ✅ Django & Django REST
-- ✅ Python
-- ✅ PostgreSQL
-- ✅ APIs RESTful
-- ✅ Autenticação & Segurança
+
+- ✅ Django & Django REST Framework
+- ✅ Node.js & Express.js
+- ✅ Python & JavaScript
+- ✅ PostgreSQL & MongoDB
+- ✅ JWT Authentication & Security
 
 </td>
 <td valign="top" width="33%">
 
-#### *Tools**
-- ✅ Git & GitHub
-- ✅ Vite & Build Tools
-- ✅ Environment Setup
+#### **DevOps & Tools**
+
+- ✅ Docker & Containerização
+- ✅ Git & GitHub Workflows
+- ✅ MongoDB Atlas & Database Design
+- ✅ API RESTful & Microserviços
+- ✅ VS Code & Development Environment
 
 </td>
 </tr>
@@ -180,10 +220,12 @@ Sistema completo de gerenciamento de usuários com Django + React
 
 ### 🎯 **Objetivos 2025**
 
-- 🚀 **Contribuir** para projetos open source
-- 📚 **Aprender** novas tecnologias (Docker, Kubernetes)
-- 💼 **Expandir** portfólio profissional
-- 🌟 **Networking** na comunidade tech
+- 🚀 **Contribuir** para projetos open source da comunidade
+- 📚 **Aprender** Kubernetes e arquitetura de cloud
+- 🐳 **Masterizar** DevOps com Docker e CI/CD
+- 🗄️ **Especializar** em MongoDB e bancos NoSQL
+- 💼 **Expandir** portfólio com projetos escaláveis
+- 🌟 **Networking** ativo na comunidade tech brasileira
 
 </div>
 
